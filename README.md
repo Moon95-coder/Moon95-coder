@@ -1,6 +1,6 @@
 ## Welcome! 👋
 
-My name is Myla and I am a C++ programmer based in the United States.
+I am a C++ programmer based in the United States.
 
 I love using C++ and Python to code a large variety of projects!
 
